@@ -1,6 +1,6 @@
 # Lumify Unity Registry
 
-A Unity Package Manager scoped registry for the vendor packages [Lumify](https://github.com/AhmadRaza-GD/Lumify-Unity-SDK)
+A Unity Package Manager scoped registry for the vendor packages [Lumify](https://github.com/CoreTeamOrganization/Lumify-Unity-SDK)
 depends on that no public registry serves — today Google's Firebase packages, under their official names.
 
 It holds metadata only. Each version's download points at the vendor's own file (for Firebase,
@@ -14,7 +14,7 @@ Lumify's Package Installer adds the registry for you. By hand, in `Packages/mani
 "scopedRegistries": [
   {
     "name": "Lumify Registry",
-    "url": "https://ahmadraza-gd.github.io/Lumify-Unity-Registry",
+    "url": "https://coreteamorganization.github.io/Lumify-Unity-Registry",
     "scopes": [ "com.google.firebase" ]
   }
 ]
