@@ -27,10 +27,10 @@ Firebase App depends on the External Dependency Manager, which comes from OpenUP
 
 | Package | Versions |
 |---|---|
-| `com.google.firebase.app` | 12.9.0 |
-| `com.google.firebase.analytics` | 12.9.0 |
-| `com.google.firebase.crashlytics` | 12.9.0 |
-| `com.google.firebase.remote-config` | 12.9.0 |
+| `com.google.firebase.app` | 12.9.0, 13.17.0 |
+| `com.google.firebase.analytics` | 12.9.0, 13.17.0 |
+| `com.google.firebase.crashlytics` | 12.9.0, 13.17.0 |
+| `com.google.firebase.remote-config` | 12.9.0, 13.17.0 |
 
 ## Adding a version
 

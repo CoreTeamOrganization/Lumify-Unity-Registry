@@ -1,9 +1,9 @@
 {
   "source": "https://dl.google.com/games/registry/unity/{name}/{name}-{version}.tgz",
   "packages": {
-    "com.google.firebase.app": [ "12.9.0" ],
-    "com.google.firebase.analytics": [ "12.9.0" ],
-    "com.google.firebase.crashlytics": [ "12.9.0" ],
-    "com.google.firebase.remote-config": [ "12.9.0" ]
+    "com.google.firebase.app": [ "12.9.0", "13.17.0" ],
+    "com.google.firebase.analytics": [ "12.9.0", "13.17.0" ],
+    "com.google.firebase.crashlytics": [ "12.9.0", "13.17.0" ],
+    "com.google.firebase.remote-config": [ "12.9.0", "13.17.0" ]
   }
 }

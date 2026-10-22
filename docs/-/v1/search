@@ -3,7 +3,7 @@
     {
       "package": {
         "name": "com.google.firebase.app",
-        "version": "12.9.0",
+        "version": "13.17.0",
         "displayName": "Firebase App (Core)",
         "description": "Firebase App is the core library every Firebase package depends on.",
         "keywords": [
@@ -16,13 +16,13 @@
           "name": "Google LLC",
           "url": "https://firebase.google.com/docs/unity/setup"
         },
-        "date": "2026-10-21T10:29:16.000Z"
+        "date": "2026-10-22T05:57:34.000Z"
       }
     },
     {
       "package": {
         "name": "com.google.firebase.analytics",
-        "version": "12.9.0",
+        "version": "13.17.0",
         "displayName": "Google Analytics",
         "description": "Get free and unlimited game and player analytics\n\nGoogle Analytics helps you understand and engage your players by revealing what actions they're taking inside your game, where they spend the most time, and why they churn. From acquisition to app usage, Google Analytics will give you insights to make better decisions about your game. You can even combine your analytics data with Google Ads to make sure you're running campaigns that deliver you high-quality players.",
         "keywords": [
@@ -36,13 +36,13 @@
           "name": "Google LLC",
           "url": "https://firebase.google.com/docs/analytics/unity/start"
         },
-        "date": "2026-10-21T10:29:16.000Z"
+        "date": "2026-10-22T05:57:34.000Z"
       }
     },
     {
       "package": {
         "name": "com.google.firebase.crashlytics",
-        "version": "12.9.0",
+        "version": "13.17.0",
         "displayName": "Firebase Crashlytics",
         "description": "Prioritize and fix stability issues faster.\n\nFirebase Crashlytics helps you track, prioritize, and fix stability issues that erode game quality, in realtime. Spend less time triaging and troubleshooting crashes and more time building game content and features that delight players.\n\nCrashlytics also sends realtime alerts for new issues, regressed issues, and burgeoning issues that might require immediate attention to ensure you never miss a critical crash no matter where you are.",
         "keywords": [
@@ -57,13 +57,13 @@
           "name": "Google LLC",
           "url": "https://firebase.google.com/docs/crashlytics/unity/start"
         },
-        "date": "2026-10-21T10:29:16.000Z"
+        "date": "2026-10-22T05:57:34.000Z"
       }
     },
     {
       "package": {
         "name": "com.google.firebase.remote-config",
-        "version": "12.9.0",
+        "version": "13.17.0",
         "displayName": "Firebase Remote Config",
         "description": "Customize your game on the fly.\n\nRemote Config lets you dynamically change the behavior and appearance of your game right from the Firebase console so you can deliver personalized experiences to players - without waiting for app store approval.",
         "keywords": [
@@ -79,10 +79,10 @@
           "name": "Google LLC",
           "url": "https://firebase.google.com/docs/remote-config/use-config-unity"
         },
-        "date": "2026-10-21T10:29:16.000Z"
+        "date": "2026-10-22T05:57:34.000Z"
       }
     }
   ],
   "total": 4,
-  "time": "2026-10-21T10:29:16.000Z"
+  "time": "2026-10-22T05:57:34.000Z"
 }
